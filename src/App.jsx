@@ -19,6 +19,7 @@ function App() {
 				<EditProfilePage />
 			) : (
 				<>
+					{/* SULLA NAVBAR CLICCARE LÍCONA DEL PROFILO IN ALTO A DESTRA PER CAMBIARE VISUALIZZAZIONE */}
 					<TVShowsHeader />
 					<FilmGrid sectionTitle={"Trending Now"} searchQuery={"Harry Potter"} />
 					<FilmGrid sectionTitle={"Watch it Again"} searchQuery={"Lord Of Rings"} />
