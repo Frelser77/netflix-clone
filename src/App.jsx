@@ -24,7 +24,7 @@ function App() {
 					<FilmGrid sectionTitle={"Watch it Again"} searchQuery={"Lord Of Rings"} />
 					<FilmGrid sectionTitle={"New Releases"} searchQuery={"Spider Man"} />
 					<FilmGrid sectionTitle={"For You"} searchQuery={"Avengers"} />
-					<FilmGrid sectionTitle={"Whatch it again"} searchQuery={"Disney"} />
+					<FilmGrid sectionTitle={"Old Movies"} searchQuery={"Disney"} />
 					<Footer />
 				</>
 			)}
